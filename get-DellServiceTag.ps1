@@ -1,0 +1,1 @@
+﻿get-ciminstance win32_bios | format-list serialnumber
