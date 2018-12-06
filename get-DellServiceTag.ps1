@@ -1,7 +1,4 @@
 ﻿<#
-    This is our code test
-    We have made another change
-    Here we go again...
-    Yet another comment
+    Code command test check
 #>
 get-ciminstance win32_bios | format-list serialnumber
