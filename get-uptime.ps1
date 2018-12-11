@@ -1,5 +1,4 @@
 #requires -version 2
-
 <#
 .SYNOPSIS
 Outputs the last bootup time and uptime for one or more computers.
